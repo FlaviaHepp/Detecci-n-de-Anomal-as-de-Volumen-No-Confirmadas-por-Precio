@@ -96,3 +96,71 @@ Configurar:
 
 Flavia Hepp
 Proyecto de SQL aplicado a análisis técnico y detección de anomalías financieras.
+
+***
+📊⚔️ **Mucho volumen… pero el precio no se mueve — esto no es ruido**
+
+En trading, solemos asociar volumen alto con movimientos fuertes.
+
+Pero hay días donde pasa algo mucho más interesante 👇
+
+---
+
+💡 **La anomalía: volumen extremo sin confirmación en precio**
+
+* 🔥 Volumen 3x superior al promedio (30 días)
+* ⚖️ Pero el precio prácticamente no se mueve (< 0.5%)
+
+---
+
+🧠 **¿Qué está pasando acá?**
+
+No es falta de interés.
+Es todo lo contrario.
+
+👉 Es una **batalla intensa entre compradores y vendedores**
+
+* Grandes órdenes enfrentadas
+* Absorción de liquidez
+* Posicionamiento institucional
+
+---
+
+🚨 **¿Por qué es importante?**
+
+Porque estos momentos suelen ser **antesala de movimientos relevantes**:
+
+* 📈 Breakout fuerte
+* 📉 Caída abrupta
+* 🔄 Cambio de tendencia
+
+👉 El mercado está “cargando energía”
+
+---
+
+📊 ¿Cómo lo interpreto?
+
+🔴 Si ocurre cerca de resistencias → posible distribución
+🟢 Si ocurre en soportes → posible acumulación
+
+---
+
+⚡ Aplicaciones prácticas:
+
+* Detectar zonas de alta tensión en el mercado
+* Anticipar movimientos explosivos
+* Mejorar timing de entrada/salida
+* Evitar señales falsas basadas solo en volumen
+
+---
+
+💬 El precio te muestra el resultado…
+👉 pero el volumen te muestra la pelea.
+
+---
+
+Y a veces, cuando nadie “gana” en el día…
+es porque algo grande está por empezar.
+
+¿Alguna vez viste una vela “quieta” con volumen gigante y después vino el movimiento fuerte? 👇
+
